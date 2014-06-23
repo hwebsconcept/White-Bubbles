@@ -1,0 +1,28 @@
+body
+{
+	font-family: 'Ubuntu Condensed', sans-serif;
+	color: #666666;
+}
+#background
+{
+	background: url(../img/bg.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+h3,h4
+{
+	font-family: 'Ubuntu Condensed', sans-serif;
+	margin:0;
+}
+.btn.btn-success
+{
+	background:#5A2854;
+	border-color:#5A2854;
+}
+.btn.btn-success:hover
+{
+	background:#9D1554;
+	border-color:#9D1554;
+}
